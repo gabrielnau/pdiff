@@ -1,11 +1,18 @@
-# Pdiff
+# Pdiff (wip)
 
-Tiny image diff utility wrapped around MiniMagick.
+Tiny image diff utility wrapped around ImageMagick.
 
 ## Why ?
 
 Wraith is ok, but as it, we can't use it in a test stack, it just outputs
 image diffs.
+
+## TODO
+
+- handle IM command status code
+- check for meaningfull options
+- add a support for the pdiff binary
+
 
 ## Installation
 
